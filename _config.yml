@@ -53,17 +53,17 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: congyangY
+disqus_username: congyangY
 
 # Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: 78b4488d542646b4467f                            #生成的clientID
-  clientSecret: 91b50283f3cf79568151a966a9b8cc9351be97a2    #生成的clientSecret
-  repo: https://congyangy.github.io/    #仓库名称
-  owner: CongyangY    #github用户名
-  admin: congyangy
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+# gitalk:
+#  enable: true    #是否开启Gitalk评论
+#  clientID: 78b4488d542646b4467f                            #生成的clientID
+#  clientSecret: 91b50283f3cf79568151a966a9b8cc9351be97a2    #生成的clientSecret
+#  repo: https://congyangy.github.io/    #仓库名称
+#  owner: CongyangY    #github用户名
+#  admin: congyangy
+#  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
