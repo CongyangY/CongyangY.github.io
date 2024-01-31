@@ -1,5 +1,8 @@
 ## 
-这是我的[博客](CongyangY.github.io) site: CongyangY.github.io 
+这是我的[博客](CongyangY.github.io) 
+
+CongyangY.github.io 
+
 白话生信，闲谈三两句
 
 
