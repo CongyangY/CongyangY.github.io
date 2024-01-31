@@ -1,9 +1,9 @@
 ## 
-这是我的[博客](CongyangY.github.io) 
+这是我的[博客](CongyangY.github.io) ，白话生信，闲谈三两句
 
-CongyangY.github.io 
+[CongyangY.github.io](https://congyangy.github.io/)
 
-白话生信，闲谈三两句
+
 
 
 
